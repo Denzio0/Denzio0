@@ -18,7 +18,7 @@
 - 🤔 &nbsp;Open to resources, mentors, and insights that help me grow faster
 - 💬 &nbsp;Ask me about how I got into the world of programming
 - ⚡ &nbsp;Fun fact: I'm genuinely in love with logic and analogy
-- 📫 &nbsp;Reach me: **marcrodenfamero@gmail.com** &nbsp;·&nbsp; **He / Him**
+- 📫 &nbsp;Reach me: **marcrodenfamero@gmail.com**
 
 ---
 
