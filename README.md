@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&height=60&lines=Hey+there!+I'm+Roden+%F0%9F%91%8B;IT+Student+%40+PLM;Learning+to+code+one+day+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<p>🎓 &nbsp;BSIT Student &nbsp;·&nbsp; Pamantasan ng Lungsod ng Maynila &nbsp;·&nbsp; Tondo, Manila</p>
+<p>🎓 &nbsp;BSIT Student &nbsp;·&nbsp; Pamantasan ng Lungsod ng Maynila &nbsp;·&nbsp;</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Denzio0&style=flat-square&color=7AA2F7&label=profile+views)
 
