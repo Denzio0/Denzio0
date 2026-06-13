@@ -1,17 +1,16 @@
 ## From the Techno-Savy World and Beyond! 👋
 
 <!--
-**Denzio0/Denzio0** is a ✨ _specialz_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I'm Roden — an Information Technology student at Pamantasan ng Lungsod ng Maynila with a STEM background and a growing obsession with how code actually works.
 
-What is going on inside Roden's Head?:
-![538268214_2093672497831937_1424723764687107764_n](https://github.com/user-attachments/assets/517fcfc0-09b8-4015-8a84-0c45fa8ed1f5)
 
-- 🔭 I’m currently working on learning HTML and C++ as an Introduction to Programming ...
-- 🌱 I’m currently learning HTML and C++ ...
-- 👯 I’m looking to collaborate on simple projects that will enhance my skill in FUNdamentals of Programming...
-- 🤔 I’m looking for assitance when it comes to advancing my skilss...
-- 💬 Ask me about how I got into the Programming World ...
-- 📫 How to reach me: marcrodenfamero@gmail.com ...
-- 😄 Pronouns: He/Him ...
-- ⚡ Fun fact: I Love the analogy and logic world ...
--->
+🔭  Currently working on — HTML, CSS, JavaScript, C++, Java, and Python as I build my foundation in the world of programming
+🌱  Currently learning — The logic and structure behind code, one bug fix at a time
+👯  Looking to collaborate on — Beginner-friendly projects that make the FUNdamentals of programming actually fun
+🤔  Looking for help with — Resources, mentors, and insights that help me level up faster
+💬  Ask me about — How I got into the programming world
+📫  Reach me at — marcrodenfamero@gmail.com
+😄  Pronouns — He / Him
+⚡  Fun fact — I genuinely love logic and analogy. If you can frame it like a puzzle, I'm already hooked.
+
+"Knowledge is paradoxical — the more I learn, the more I realize how much I don't know."
